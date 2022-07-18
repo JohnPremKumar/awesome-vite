@@ -278,6 +278,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
 - [vite-plugin-copy-files](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
 - [vite-plugin-progress](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
+- [vite-plugin-favicons-inject](https://github.com/JohnPremKumar/vite-plugin-favicons-inject) - Create and inject favicons automatically.
+
+
 
 #### Transformers
 
